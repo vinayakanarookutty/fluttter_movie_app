@@ -1,6 +1,6 @@
-# umdb
+# Flutter Movie
 
-A new Flutter project.
+A new Flutter Movie project.
 
 ## Getting Started
 
